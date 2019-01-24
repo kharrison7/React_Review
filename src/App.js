@@ -12,6 +12,8 @@ class App extends Component {
             Edit <code>src/App.js</code> and save to reload.
           </p>
           <p>Word</p>
+
+          {/* This is a div added to use props  'clicks' and  function 'onClick'*/}
           <div onClick={this.props.onClick}>This div has been clicked {this.props.clicks} times.</div>
           <a
             className="App-link"
