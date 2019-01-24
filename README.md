@@ -2,6 +2,23 @@
 
 This project is built to showcase basic features of a react app.
 
+This Basic Click branch shows how to build a simple react feature.
+
+In the Index.js:
+The model - let model = { clicks: 0}; is made.
+A render function is made and called immediately
+In 'App' the state is passed for
+clicks={model.clicks}
+onClick={()=> {model.clicks += 1; render(); }}
+This allows for the state of 'clicks' and the function 'onClick' to be passed as props.
+It is  worth noting that 'render()' must be called to refresh the page and display the new value for 'clicks'.
+
+In the App.js:
+A div is created containing
+onClick={this.props.onClick}
+{this.props.clicks}
+These insert on the function 'onClick' and the props 'clicks' from  Index.js
+
 ...
 -
 
