@@ -4,6 +4,7 @@ This project is built to showcase basic features of a react app.
 
 
 ...
+
 -
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
