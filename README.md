@@ -2,12 +2,19 @@
 
 This project is built to showcase basic features of a react app.
 
-
+Run using npm start
 ...
 
 -
+Bootstrap CDN:
+https://getbootstrap.com/
+Save this file to src directory:
+https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css
+
 Branches Review:
 https://stackoverflow.com/questions/19944510/create-a-remote-branch-on-github
+
+App.js is the main component of our application.
 -
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
