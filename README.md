@@ -28,6 +28,7 @@ npm uninstall modules:
 https://stackoverflow.com/questions/13066532/how-to-uninstall-npm-modules-in-node-js
 
 AuthorQuiz (App.js) is the main component of our application.
+
 -
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

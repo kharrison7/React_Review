@@ -1,8 +1,9 @@
 //A simple test to demonstate the innate testing capabilities of React.js
 //Jest is the testing framework (comes with create-react-app)
+//To run a test, in terminal use 'npm test'
 
 import React from "react";
-import jest from "jest";
+import ReactDOM from 'react-dom';
 
 function Hello(props){
   return <h1>Hello at {props.now}</h1>
@@ -34,10 +35,9 @@ describe("When testing directly", () => {
 describe("When testing with ReactDOM", () => {
   it("renders without crashing", () => {
     const div = document.createElement("div");
-    ReactDOM.redner(<Hello now={moment.toISOString()] />, div);
+    ReactDOM.render(<Hello now={moment.toISOString()} />, div);
   })
 });
-
 
 //describe is used to group a series of tests.
 //This test is used to test a simple sum funciton.
