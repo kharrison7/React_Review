@@ -17,9 +17,13 @@ https://stackoverflow.com/questions/19944510/create-a-remote-branch-on-github
 Jest (React Testing):
 https://jestjs.io/
 https://facebook.github.io/jest/
+Note: Jest comes set up with create-react-app
 
 Facebook Development Tools:
 https://opensource.facebook.com/
+
+npm uninstall modules:
+https://stackoverflow.com/questions/13066532/how-to-uninstall-npm-modules-in-node-js
 
 AuthorQuiz (App.js) is the main component of our application.
 -
