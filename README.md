@@ -17,7 +17,9 @@ https://stackoverflow.com/questions/19944510/create-a-remote-branch-on-github
 Jest (React Testing):
 https://jestjs.io/
 https://facebook.github.io/jest/
+https://github.com/facebook/jest?fbclid=IwAR2moD3WaKRzKqGnQS_zrhAiPQHVeN3BDyP_WlNA04LEN7UQq5AdiACD3hY
 Note: Jest comes set up with create-react-app
+Run test with terminal command 'npm test'
 
 Facebook Development Tools:
 https://opensource.facebook.com/
