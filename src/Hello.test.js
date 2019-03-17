@@ -30,6 +30,14 @@ describe("When testing directly", () => {
   });
 });
 
+//ReactDOM is the module used to render a React Component into a webpage.
+describe("When testing with ReactDOM", () => {
+  it("renders without crashing", () => {
+    const div = document.createElement("div");
+    ReactDOM.redner(<Hello now={moment.toISOString()] />, div);
+  })
+});
+
 
 //describe is used to group a series of tests.
 //This test is used to test a simple sum funciton.
