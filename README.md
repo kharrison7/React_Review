@@ -1,11 +1,7 @@
-
-
 This project is built to showcase basic features of a react app.
 
-Run using npm start
-...
+Run using npm start ...
 
--
 Bootstrap CDN:
 
 https://getbootstrap.com/
@@ -14,24 +10,38 @@ Save this file to src directory:
 
 https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css
 
-Branches Review:
-
-https://stackoverflow.com/questions/19944510/create-a-remote-branch-on-github
-
 Jest (React Testing):
 
 https://jestjs.io/ https://facebook.github.io/jest/ https://github.com/facebook/jest?fbclid=IwAR2moD3WaKRzKqGnQS_zrhAiPQHVeN3BDyP_WlNA04LEN7UQq5AdiACD3hY Note: Jest comes set up with create-react-app Run test with terminal command 'npm test'
 
 Facebook Development Tools: https://opensource.facebook.com/
 
-npm uninstall modules: https://stackoverflow.com/questions/13066532/how-to-uninstall-npm-modules-in-node-js
+npm uninstall modules: https://stackoverflow.com/questions/13066532/how-to-uninstall-npm-modules-in-node-js https://stackoverflow.com/questions/40546231/sh-react-scripts-command-not-found-after-running-npm-start
+
+Github review:
+
+Branches Review:
+
+https://stackoverflow.com/questions/19944510/create-a-remote-branch-on-github
+
+Pull Review:
+
+https://stackoverflow.com/questions/1709177/git-pull-a-certain-branch-from-github
+
+Clone Review:
+
+https://stackoverflow.com/questions/9864728/how-to-get-git-to-clone-into-current-directory
+
+Git Log Review:
+
+https://stackoverflow.com/questions/4114095/how-to-revert-a-git-repository-to-a-previous-commit
+https://stackoverflow.com/questions/9483757/how-to-exit-git-log-or-git-diff
+
+- - -
 
 App.js is the main component of our application.
 
-update
--
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with Create React App.
 
 ## Available Scripts
 
