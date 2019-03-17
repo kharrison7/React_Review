@@ -2,7 +2,9 @@
 //Jest is the testing framework (comes with create-react-app)
 
 import React from "react";
-import jest from "jest";
+import ReactDOM from 'react-dom';
+// import jest from "jest";
+
 
 function Hello(props){
   return <h1>Hello at {props.now}</h1>
@@ -34,7 +36,7 @@ describe("When testing directly", () => {
 describe("When testing with ReactDOM", () => {
   it("renders without crashing", () => {
     const div = document.createElement("div");
-    ReactDOM.redner(<Hello now={moment.toISOString()] />, div);
+    ReactDOM.render(<Hello now={moment.toISOString()} />, div);
   })
 });
 
