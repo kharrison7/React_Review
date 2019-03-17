@@ -18,6 +18,11 @@ Facebook Development Tools: https://opensource.facebook.com/
 
 npm uninstall modules: https://stackoverflow.com/questions/13066532/how-to-uninstall-npm-modules-in-node-js https://stackoverflow.com/questions/40546231/sh-react-scripts-command-not-found-after-running-npm-start
 
+Upgrading Node:
+nvm install v10.15.0
+https://stackoverflow.com/questions/10075990/upgrading-node-js-to-latest-version
+
+
 Github review:
 
 Branches Review:
