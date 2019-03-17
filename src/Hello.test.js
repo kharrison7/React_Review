@@ -4,6 +4,11 @@
 
 import React from "react";
 import ReactDOM from 'react-dom';
+<<<<<<< HEAD
+=======
+// import jest from "jest";
+
+>>>>>>> c59fbd86479d7aaa8a4ee65a95f32d8beafd654a
 
 function Hello(props){
   return <h1>Hello at {props.now}</h1>
