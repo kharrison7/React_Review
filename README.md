@@ -35,6 +35,10 @@ Pull Review:
 
 https://stackoverflow.com/questions/1709177/git-pull-a-certain-branch-from-github
 
+Clone Review:
+
+https://stackoverflow.com/questions/9864728/how-to-get-git-to-clone-into-current-directory
+
 App.js is the main component of our application.
 
 -
