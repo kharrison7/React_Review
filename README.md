@@ -2,6 +2,7 @@ This project is built to showcase basic features of a react app.
 
 Run using npm start ...
 
+
 Bootstrap CDN:
 
 https://getbootstrap.com/
@@ -21,6 +22,9 @@ npm uninstall modules: https://stackoverflow.com/questions/13066532/how-to-unins
 Upgrading Node:
 nvm install v10.15.0
 https://stackoverflow.com/questions/10075990/upgrading-node-js-to-latest-version
+
+Using Visual Studio:
+https://docs.microsoft.com/en-us/visualstudio/javascript/tutorial-nodejs-with-react-and-jsx?view=vs-2017
 
 
 Github review:
