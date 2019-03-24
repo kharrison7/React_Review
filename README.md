@@ -2,7 +2,6 @@ This project is built to showcase basic features of a react app.
 
 Run using npm start ...
 
-
 Bootstrap CDN:
 
 https://getbootstrap.com/
